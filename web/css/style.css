@@ -293,14 +293,14 @@ header{
 
 nav {margin-top:-1px;}
 #top_line{
-	font-size:15px;
+	font-size:10px;
 	background-color:#f3f3f3;
 	 transition: all 0.2s ease-in-out;
 	 -moz-transition: all 0.1s ease-in-out;
 	 -webkit-transition: all 0.1s ease-in-out;
 	 -o-transition: all 0.1s ease-in-out;
 	 visibility:visible;
-	 opacity:1;
+	 opacity:2;
 	 padding: 8px 0;
 	 margin-bottom:-1px;
 	 margin-top: auto;
@@ -309,7 +309,7 @@ ul#top_links{
 	list-style:none;
 	margin:0;
 	padding:2px 0 0 0;
-	float:right;
+	float:center;
 }
 ul#top_links li{
 	display:inline-block;
