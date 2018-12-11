@@ -16,15 +16,6 @@
   <script src="js/functions.js"></script>
 
   <!-- Specific script -->
-  <script src="js/video_header.js"></script>
-  <script>
-    HeaderVideo.init({
-      container: $('.header-video'),
-      header: $('.header-video--media'),
-      videoTrigger: $("#video-trigger"),
-      autoPlayVideo: false
-    });
-  </script>
   <script src="js/jquery.validate.js"></script>
   <script src="js/jquery.stepy.min.js"></script>
   <script src="js/quotation-validate.js"></script>
