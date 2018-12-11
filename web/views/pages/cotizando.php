@@ -1,14 +1,22 @@
+<?php
+    /*
+    Author: TecnicoaCR
+    11/12/18
+    */
+ ?>
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  {% include 'views/partials/head.html' %}
+  <? include 'views/partials/head.html' ?>
 </head>
 <body>
-  {% include 'views/partials/nav.html' %}
+  <? include 'views/partials/nav.html' ?>
 
-  {% block content %}{% endblock %}
 
-  {% include 'views/partials/footer.html' %}
+
+  <? include 'views/partials/footer.html' ?>
 
   <!-- Common scripts -->
   <script src="js/jquery-2.2.4.min.js"></script>
