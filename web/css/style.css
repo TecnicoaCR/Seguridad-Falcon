@@ -303,6 +303,7 @@ nav {margin-top:-1px;}
 	 opacity:1;
 	 padding: 8px 0;
 	 margin-bottom:-1px;
+	 margin-top: auto;
 }
 ul#top_links{
 	list-style:none;
