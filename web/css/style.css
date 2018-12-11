@@ -164,7 +164,7 @@ a.btn_quote{
 	color:#fff;
 	background:none;
 	cursor: pointer;
-	padding: 7px 30px;
+	padding: 14px 40px;
 	display: inline-block;
 	outline: none;
 	font-size:14px;
@@ -293,7 +293,7 @@ header{
 
 nav {margin-top:-1px;}
 #top_line{
-	font-size:12px;
+	font-size:15px;
 	background-color:#f3f3f3;
 	 transition: all 0.2s ease-in-out;
 	 -moz-transition: all 0.1s ease-in-out;
@@ -732,7 +732,7 @@ main {
 footer {
 	background:#222;
 	color:rgba(255,255,255,0.6);
-	padding:30px 0 0 0;
+	padding:25px 0 0 0;
 }
 footer h3{
 	font-size:16px;
