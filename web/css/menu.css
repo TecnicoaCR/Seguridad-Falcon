@@ -2,7 +2,7 @@
   CSS3 MENU
 ==================================================================================================== */
 
-.main-menu {position: relative;display: flex;z-index:9;width:auto; float:right; font-weight:500; }
+.main-menu {position: relative;z-index:9;width:auto; float:right; font-weight:500; }
 .main-menu a {-webkit-transition:all 0.3s;-moz-transition:all 0.3s;transition:all 0.3s;}
 .main-menu ul,
 .main-menu ul li,
