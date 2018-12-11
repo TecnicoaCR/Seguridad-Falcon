@@ -47,26 +47,6 @@ h3{ font-size:20px;}
 
 label{font-weight: 500;}
 
-/* definimos los 4 tipos de copos */
-        .copo1 {
-            height:1px;
-            width:1px;
-        }
-        .copo2 {
-            height:2px;
-            width:2px;
-        }
-        .copo3 {
-            height:3px;
-            width:3px;
-            border-radius:2px;
-        }
-        .copo4 {
-            height:4px;
-            width:4px;
-            border-radius:3px;
-        }
-
 /*General links color*/
 a {color: #06C;text-decoration: none;-webkit-transition: all 0.2s ease;transition: all 0.2s ease; outline:none;}
 a:hover,a:focus {color: #111;text-decoration: none; outline:none;}
@@ -313,7 +293,7 @@ header{
 
 nav {margin-top:-1px;}
 #top_line{
-	font-size:15px;
+	font-size:10px;
 	background-color:#f3f3f3;
 	 transition: all 0.2s ease-in-out;
 	 -moz-transition: all 0.1s ease-in-out;

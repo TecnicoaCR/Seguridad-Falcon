@@ -1,5 +1,8 @@
 <?php
-
+/*
+  Editado por: TecnicoaCR-Team
+    Fecha: 10/12/18
+*/
 require('../vendor/autoload.php');
 
 $app = new Silex\Application();

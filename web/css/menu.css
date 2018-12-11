@@ -260,7 +260,7 @@ a.show-submenu-mega + .menu-wrapper.show_mega,
 
 @media only screen and (max-width: 480px) {
 
-.main-menu {width: 100%;}
+.main-menu {width: 80%;}
 a#close_in {display:block;position:absolute;right:15px;top:10px;width:20px;height:20px;}
 #close_in i{color:#555 !important;font-size:16px;}
 
