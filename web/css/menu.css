@@ -6,7 +6,7 @@
 .main-menu a {-webkit-transition:all 0.3s;-moz-transition:all 0.3s;transition:all 0.3s;}
 .main-menu ul,
 .main-menu ul li,
-.main-menu ul li a {position: relative; margin-bottom:0; margin: -1px;padding: 0;}
+.main-menu ul li a {position: relative; margin-bottom:0; margin: -1px;padding: 0;margin-top: 5px;}
 
 /* Submenu styles */
 .main-menu ul li a {display: block; line-height: 30px;padding:10px;}
