@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  {% include 'partials/head.html' %}
+  {% include 'views/partials/head.html' %}
 </head>
 <body>
-  {% include 'partials/nav.html' %}
+  {% include 'views/partials/nav.html' %}
 
   {% block content %}{% endblock %}
 
-  {% include 'partials/footer.html' %}
+  {% include 'views/partials/footer.html' %}
 
   <!-- Common scripts -->
   <script src="js/jquery-2.2.4.min.js"></script>
