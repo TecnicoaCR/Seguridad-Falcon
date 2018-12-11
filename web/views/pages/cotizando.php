@@ -9,14 +9,14 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <? include 'views/partials/head.html' ?>
+  <? include 'views/partials/head-ES.html' ?>
 </head>
 <body>
-  <? include 'views/partials/nav.html' ?>
+  <? include 'views/partials/header-ES.html' ?>
 
 
 
-  <? include 'views/partials/footer.html' ?>
+  <? include 'views/partials/footer-ES.html' ?>
 
   <!-- Common scripts -->
   <script src="js/jquery-2.2.4.min.js"></script>
