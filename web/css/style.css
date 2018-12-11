@@ -267,7 +267,7 @@ a#phone_top:before {
 #opening {
 	display: inline-block;
 	position: relative;
-	padding-left: 22px;
+	padding-left: 18px;
 }
 #opening:before {
 	font-family: "ElegantIcons";
@@ -307,6 +307,7 @@ nav {margin-top:-1px;}
 }
 ul#top_links{
 	list-style:none;
+	font-size:14px; 
 	margin:0;
 	padding:2px 0 0 0;
 	float:center;
